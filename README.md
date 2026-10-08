@@ -2,7 +2,7 @@
 
 Egyoldalas, mobilra optimalizált landing oldal egy magyar darts toll gravírozó műhelynek (sötét, arany akcentusú "Artisanal Precision Dark Luxury" dizájn).
 
-- `index.html` – az oldal (Tailwind CDN, Bodoni Moda / Inter betűtípusok)
+- `index.html` – az oldal (egyetlen fájl, saját CSS, reszponzív: mobil tab bar + asztali felső menü)
 - `docs/DESIGN.md` – a dizájnrendszer (színek, tipográfia)
 - `docs/preview.png` – az oldal képernyőképe
 
